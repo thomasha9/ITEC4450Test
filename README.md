@@ -5,8 +5,8 @@ Usually, people put general instructions or basic information about their projec
 We will collaborate together to create the index.hmtl page.
 
 Here's a to do list, each of you pick one task to do(put your name next to the task):
-1. Start a bullet list for each group (Xin Xu)
-2. Take a picture before or after class, Add a class picture to the webpage
+1. Start a bullet list for each group (Xin Xu) <br>
+2. Take a picture before or after class, Add a class picture to the webpage </br>
 3. Modify the heading so it's appropriate and more attractive 
 4. Add a short paragraph at the begining to introduce the purpose of this webpage.
 5. Add a footer to the page
