@@ -15,7 +15,7 @@ Here's a to do list, each of you pick one task(put your name next to the task): 
 6. Create a simple page for each group( Upload a picture that represents the spirit your team; Add the names of each team member; link your name to the resume) If you didn't do anything, contribue to the group page </br>
 7. Anything else that you did to improve this page, please list it here.   </br>
 
-To view the html page, add  http://htmlpreview.github.io/?  at the begining of your URL, for example </br>
+To preview the html page on Github, add  http://htmlpreview.github.io/?  at the begining of your URL, for example </br>
 </br>
 http://htmlpreview.github.io/?https://github.com/kxuxin/ITEC4450Test/blob/master/index.html
 
